@@ -1,4 +1,4 @@
-baseURL = "https://nhatanh.github.io/report/"
+baseURL = "https://nhatanhaxtanh.github.io/nhatanh/"
 publishDir = "public"
 relativeURLs = true
 canonifyURLs = true
