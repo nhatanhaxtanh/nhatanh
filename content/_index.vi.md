@@ -27,10 +27,6 @@ chapter: false
 
 ![Ảnh đại diện của bạn](/images/IMG_2932.PNG?width=40pc)
 
-- [Báo cáo thực tập](#báo-cáo-thực-tập)
-    - [Thông tin sinh viên:](#thông-tin-sinh-viên)
-    - [Nội dung báo cáo](#nội-dung-báo-cáo)
-
 
 ### Nội dung báo cáo
 
