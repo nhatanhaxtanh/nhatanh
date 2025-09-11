@@ -13,7 +13,7 @@ chapter: false
 {{% /notice %}}
 
 ### Student Information:
-&emsp; **Full Name:** Le Nhat Anh
+&emsp; **Full Name:** Tran Thanh Vinh
 
 &emsp; **Phone Number:** 0934560352 
 
