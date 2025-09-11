@@ -15,13 +15,13 @@ chapter: false
 ### Student Information:
 &emsp; **Full Name:** Le Nhat Anh
 
-&emsp; **Phone Number:** 0989888999 
+&emsp; **Phone Number:** 0934560352 
 
-&emsp; **Email:** Anguyenvan@gmail.com
+&emsp; **Email:** lenhatanh2411@gmail.com
 
-&emsp; **University:** Ho Chi Minh City University of Technology and Education
+&emsp; **University:** FPT University HCM Campus
 
-&emsp; **Major:** Information Technology
+&emsp; **Major:** Software Engineering
 
 &emsp; **Class:** AWS082025
 
@@ -29,9 +29,9 @@ chapter: false
 
 &emsp; **Internship Position:** FCJ Cloud Intern
 
-&emsp; **Internship Duration:** From 12/08/2025 to 12/11/2025
+&emsp; **Internship Duration:** From 08/09/2025 to 12/11/2025
 
-![Your profile picture](/images/avatar.png)
+![Your profile picture](/images/IMG_2932.PNG?width=40pc)
 
 ### Report Content
 
